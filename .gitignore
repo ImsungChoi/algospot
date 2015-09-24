@@ -42,8 +42,14 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 #IntelliJ
 *.iml
 out
 .idea
 .class
+=======
+#Intellij
+*.iml
+.idea
+>>>>>>> origin/master
