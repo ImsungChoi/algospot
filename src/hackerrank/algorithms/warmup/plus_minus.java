@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Created by skplanet on 2015-09-07.
  */
 public class plus_minus {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int c = sc.nextInt();
