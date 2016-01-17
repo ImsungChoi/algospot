@@ -44,6 +44,6 @@ Temporary Items
 
 #Intellij
 *.iml
-out
-.idea
-.class
+*.out
+*.idea
+*.class
